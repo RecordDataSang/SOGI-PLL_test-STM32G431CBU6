@@ -94,15 +94,7 @@ The author assumes no responsibility for any direct or indirect issues arising f
 
 ## Additional Notes / 补充说明
 
-* PCB files are designed using Altium Designer (AD22)
-
-* Ensure toolchain and firmware versions are compatible
-
 * Recommended for users with basic STM32 and control theory knowledge
-
-* PCB 使用 AD22 设计
-
-* 请确保开发环境版本匹配
 
 * 建议具备 STM32 与控制算法基础后使用
 
